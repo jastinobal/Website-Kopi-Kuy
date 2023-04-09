@@ -243,7 +243,7 @@ section.best-seller {
 
 .our-team .baris .tim {
    margin: 20px 25px;
-   text align-self: center;
+   text-align: center;
 }
 
 .our-team .baris .tim img {
@@ -329,6 +329,8 @@ section.best-seller {
 
 .contact-us .kolom img p {
    font-size: 2px;
+   width: 70px;
+   align-self: center;
 }
 
 
