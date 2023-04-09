@@ -152,6 +152,7 @@ header .kiri p.tagline {
 header .kiri .cta p {
    font-size: 16px;
    margin-bottom: 20px;
+   color: green;
 }
 
 header .kiri .cta a {
